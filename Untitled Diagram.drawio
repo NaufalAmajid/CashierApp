@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T03:47:02.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RB0TxDevdEwEF_Pjg8SR" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-08T03:52:03.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7RZ3riNunNY3rapk04TD" version="21.3.7" type="github" pages="2">
   <diagram name="Table Desc" id="ST5IkM-M1hZHzCc8drvt">
     <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -104,10 +104,19 @@
           <mxGeometry x="298" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uKvp3gtQSmGo8CJvUjyI-1" value="nums row &amp;gt; 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="425" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uKvp3gtQSmGo8CJvUjyI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uKvp3gtQSmGo8CJvUjyI-4" target="uKvp3gtQSmGo8CJvUjyI-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uKvp3gtQSmGo8CJvUjyI-4" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;user choice store or create new store&lt;br&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="180" width="85" height="80" as="geometry" />
+          <mxGeometry x="383" y="300" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uKvp3gtQSmGo8CJvUjyI-8" value="input name, address,phone" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="373" y="440" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uKvp3gtQSmGo8CJvUjyI-10" value="create new store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
